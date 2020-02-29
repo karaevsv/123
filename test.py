@@ -9,3 +9,5 @@ print(1)
 hello()
 print('NO')
 print('remote control ; - ;')
+
+print(4)
