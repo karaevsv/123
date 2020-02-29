@@ -11,3 +11,7 @@ print('NO')
 print('remote control ; - ;')
 
 print(4)
+
+def s(hello):
+    print(hello * 5)
+    return hello
