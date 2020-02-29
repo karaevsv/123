@@ -8,3 +8,4 @@ def hello():
 print(1)
 hello()
 print('NO')
+print('remote control ; - ;')
