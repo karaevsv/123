@@ -7,3 +7,4 @@ def hello():
 
 print(1)
 hello()
+print(3)
